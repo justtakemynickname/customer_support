@@ -1,0 +1,8 @@
+python-telegram-bot
+transformers
+torch
+torchvision
+Pillow
+speechrecognition
+whisper
+Flask
